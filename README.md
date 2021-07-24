@@ -5,19 +5,19 @@ Se trata de un proyecto de desarrollo frontend en React, utilizando como servido
 
 # Se requiere de:
 
-#Persona
+# Persona
 
 Formulario para ingresar una nueva persona (amigos a los que les prestare libros)
 Un listado o cards desde el que se puedan ver todas las personas y tenga funcion para borrar y modificar sus datos (pueden ser iconos o botones)
 Se tiene que poder ver los libros que tiene una persona prestados (es decir, los libros que le preste)
 
-#Generos
+# Generos
 
 Formulario para ingresar un nuevo genero
 Un listado o cards de generos donde tambien se cuente con la funcionlidad de borrado o modificacion
 Se tiene que poder ver todos los libros de un genero, puede ser una funcionalidad extra en el listado/card del punto anterior o bien otra pantalla donde se seleccione el genero y muestren los libros
 
-#Libro
+# Libro
 
 Formulario para ingresar nuevo libro
 Listado de todos los libros que muestre el alias de la persona que lo tiene, en caso de estar prestado, debe contar con boton para borrar, modificar, prestar/devolver libro
